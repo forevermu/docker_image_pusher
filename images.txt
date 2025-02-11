@@ -1,2 +1,2 @@
 ghcr.io/open-webui/open-webui:main
-github.com/tech-shrimp/docker_image_pusher：main
+github.com/gtxy27/Harbor-API:latest
