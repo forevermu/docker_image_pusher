@@ -1,2 +1,2 @@
 ghcr.io/open-webui/open-webui:main
-github.com/gtxy27/Harbor-API:latest
+github.com/gtxy27/Harbor-API
