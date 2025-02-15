@@ -1,3 +1,1 @@
-ghcr.io/open-webui/open-webui:main
-gtxy27/harbor-api:latest
-calciumion/new-api:latest
+langgenius/dify
