@@ -1,2 +1,9 @@
 langgenius/dify-api:latest
-github.com/langgenius/dify
+langgenius/dify-redis
+langgenius/dify-nginx
+langgenius/dify-ssrf_proxy
+langgenius/dify-db
+langgenius/dify-weaviate
+langgenius/dify-web
+langgenius/dify-sandbox
+langgenius/dify-worker
