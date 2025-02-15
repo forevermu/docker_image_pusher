@@ -1,1 +1,1 @@
-langgenius/dify
+langgenius/dify-api:latest
